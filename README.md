@@ -1,5 +1,4 @@
 # HI! My name is Mike
----
 ### A little description about myself:
 I'm a german teenager who's been coding for around 2 years but I still consider myself a beginner.  
 I have been using linux exclusively for around 3 years. (I'm into ricing as well so I might post dotfiles in the future)  
